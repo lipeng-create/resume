@@ -1,0 +1,19 @@
+# Site settings
+name: 李鹏
+location: 山西吕梁
+company: 大连民族大学
+position: 软件开发工程师
+github: https://github.com/
+facebook: li17835419329
+phone: 17835419329
+email: 1218744179@qq.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
